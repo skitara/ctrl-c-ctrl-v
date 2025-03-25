@@ -1,4 +1,7 @@
 #include <stdio.h>
+
+// Exercise 1-1. Run the "hello, world" program on your system. Experiment with leaving out parts of the program, to see what error messages you get.
+
 /* ex_1.1.c:6:5: warning: incompatible implicit declaration of built-in function 'printf'
      printf("hello world\n")
 ex_1.1.c:6:5: note: include '<stdio.h>' or provide a declaration of 'printf' */

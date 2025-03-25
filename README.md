@@ -1,0 +1,1 @@
+### The repo documenting my journey through "The C Programming Language", Brian W. Kernighan and Dennis M. Ritchie, 2nd Edition.
